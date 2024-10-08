@@ -12,7 +12,7 @@ _It is recommended to have the following technologies installed_
 _To run the project you must create an ******* file with the following environment variables_
 
 ```
-export PORT= ****
+export PORT= 80
 
 ```
 

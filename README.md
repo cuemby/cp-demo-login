@@ -1,44 +1,4 @@
-# Example LogIn
-Demo application for Deployment test
+## Cuemby Platform Deploy
 
-## Pre-requirements 📋
-
-_It is recommended to have the following technologies installed_
-
-********
-
-## Installation 🔧
-
-_To run the project you must create an ******* file with the following environment variables_
-
-```
-export PORT= 80
-
-```
-
-_The environment variables created in the .env file must be exported_ *******
-
-```
-**********
-```
-## Deploy 📦
-_To run the server with its functionality, you must use the node run command_
-
-```
-********
-```
-
-
-## Deploy Kubernetes 📦
-
-_To run command_
-
-```
-********
-```
-
-_To run command_
-
-```
-********
-```
+- Para desplegar en CP el trafico del runtime debe ser external y puerto 80
+- To deploy on CP, the runtime traffic must be external and port 80.

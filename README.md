@@ -1,4 +1,4 @@
-# ccp-app-demo-for-deployment
+# Example LogIn
 Demo application for Deployment test
 
 ## Pre-requirements 📋
